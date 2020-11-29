@@ -20,7 +20,8 @@
 
 
 
-[home](README.md) | [class_notes](class_notes.md)
+[home](/README.md) | [class_notes](class_notes.md)
 
 
 ### ©Anthony Hayward
+testing git
