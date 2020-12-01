@@ -3,7 +3,7 @@
 *all my notes for 201 will be here*
 
 - [reading_notes_day1](reading_notes_md/reading_notes_day1.md)
-- [reading_notes_day2](reading_notes_day2.md)
+- [reading_notes_day2](reading_notes_md/reading_notes_day2.md)
 - [reading_notes_day3](reading_notes_day3.md)
 - [Day 4](day_4.md)
 - [Day 5](day_5.md)
