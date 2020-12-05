@@ -6,7 +6,7 @@
 - [reading_notes_day2](reading_notes_md/reading_notes_day2.md)
 - [reading_notes_day3_HTML Lists, Control Flow with JS, and the CSS Box Model](reading_notes_md/reading_notes_day3.md)
 - [reading_notes_day4_HTML Links, JS Functions, and Intro to CSS Layouts](reading_notes_md/reading_notes_day4.md)
-- [Day 5](day_5.md)
+- [reading_notes_Read:HTML Images; CSS Color & Text](reading_notes_md/reading_notes_day5.md)
 - [Day 6](day_6.md)
 - [Day 7](day_7.md)
 - [Day 8](day_8.md)
