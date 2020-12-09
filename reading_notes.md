@@ -9,7 +9,7 @@
 - [reading_notes_Read:HTML Images; CSS Color & Text](reading_notes_md/reading_notes_day5.md)
 - [Problem Domain, Objects, and the DOM_Reading_Notes](reading_notes_md/reading_notes_day6.md)
 - [Object-Oriented Programming, HTML TablesDay 7](reading_notes_day7.md)
-- [Day 8](day_8.md)
+- [CSS Layout - Day 8](reading_notes_day8.md)
 - [Day 9](day_9.md)
 - [Day 10](day_10.md)
 - [Day 11](day_11.md)
